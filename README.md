@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Travel Packing List App ✈️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React-based application designed to help travelers create and manage packing lists with ease. It offers various sorting methods for items and allows users to track their packing progress.
 
-## Available Scripts
 
-In the project directory, you can run:
+![Application Screenshot](https://github.com/JosieWei2023/05-travel-list/blob/master/screenshot.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Follow these steps to set up the application:
 
-### `npm test`
+1. Open Powershell/Terminal and Clone the repository to your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone https://github.com/JosieWei2023/05-travel-list.git
+   ```
 
-### `npm run build`
+2. Navigate to the project directory:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   cd 05-travel-list
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Install the required dependencies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   npm install
+   ```
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Get Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To run the Keeper App, perform the following actions:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Open a new PowerShell window.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Start the application:
 
-## Learn More
+   ```bash
+   npm start
+   ```
+3. Open a web browser and navigate to [localhost:3000](http://localhost:3000) to access the application. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Open the app in your web browser.
 
-### Code Splitting
+2. Create a Packing List: Add items to your packing list with categories, importance levels, and quantities.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Sorting Methods: Sort your packing list items by adding time, description, or any other method of your choice.
 
-### Analyzing the Bundle Size
+4. Packing Progress: Track your packing progress with a visual indicator, showing what's packed and what's not.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+5. To delete an item, click the X icon next to it.
 
-### Making a Progressive Web App
+6. Enjoy using the app to organize your items!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributing
 
-### Deployment
+Contributions are welcome! 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+
+This project was created using **React**. 
+
+Special thanks to the authors and contributors of these technologies for their valuable work. 
+
+Additionally, I would like to express my gratitude to my instructor [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann) for his guidance and support throughout the development of this project.
+
+
+## 🚀 About Me
+
+* I'm a first year postgraduate in Northeastern University.
+
+
+### Contact Details
+* Email: tinaweizq@outlook.com
+
+* LinkedIn Profile: [@JosieWei](https://www.linkedin.com/in/josie-wei-279462245/)
+
+---
